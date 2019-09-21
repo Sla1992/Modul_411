@@ -1,6 +1,6 @@
 package Muffinrezept;
 
-public class Ingredients {
+public class Recipe {
 
     int butter = 200;
     int sugar = 200;
@@ -13,7 +13,7 @@ public class Ingredients {
     int degree = 200;
     int time = 30;
 
-    public Ingredients(){
+    public Recipe(){
 
     }
 
